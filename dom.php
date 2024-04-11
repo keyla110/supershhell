@@ -431,7 +431,7 @@ echo "
 			</div>
 		</nav>
 		<div class=''>
-			<h1 class='text-center'><a href='https://t.me/sztsss'>[+]George Xploiter[+]</h1>
+			<h1 class='text-center'><a href='#'>[+]George Xploiter[+]</h1>
 			<center><p>Too much self-confidence makes you forget yourself</a></p></center>
 			<hr/>";
 		//keluar
