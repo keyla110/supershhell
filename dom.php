@@ -31,7 +31,7 @@ function login_shell() {
     <!-- Required meta tags -->
     <meta charset="utf-8">
 		<meta name='viewport' content='widht=device-widht, initial-scale=0.75'>
-		<link rel='icon' type='image/png' href='https://avatars3.githubusercontent.com/u/53482167?s=460&v=4'/>
+		<link rel='icon' type='image/png' href='https://i.postimg.cc/28pwbqS3/7ffc3c2b0cfe5e507ea52cbf09b8d0a2-removebg-preview-1.png'/>
 		<meta name='author' content='George'/>
 		<meta name='author' content='George'/>
 		<meta name='copyright' content='George'/>
@@ -254,7 +254,7 @@ echo "
 	<title>22XploiterCrew Shell Backdoor</title>
 	<head>
 		<meta name='viewport' content='widht=device-widht, initial-scale=0.75'>
-		<link rel='icon' type='image/png' href='https://avatars3.githubusercontent.com/u/53482167?s=460&v=4'/>
+		<link rel='icon' type='image/png' href='https://i.postimg.cc/28pwbqS3/7ffc3c2b0cfe5e507ea52cbf09b8d0a2-removebg-preview-1.png'/>
 		<meta name='author' content='CodeXploit+Holiq'/>
 		<meta name='copyright' content='George Shell'/>
 		<meta name='description' content='George Shell Backdoor'>
